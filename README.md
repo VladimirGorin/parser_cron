@@ -1,5 +1,5 @@
  cron-parser
-================
+ ================
 
 [![Build Status](https://travis-ci.com/VladimirGorin/parser_cron.svg?branch=master)](https://travis-ci.com/VladimirGorin/parser_cron)
 [![NPM version](https://badge.fury.io/js/cron-parser.png)](http://badge.fury.io/js/cron-parser)
